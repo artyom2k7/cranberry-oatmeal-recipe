@@ -1,0 +1,42 @@
+body {
+    width: 700px;
+    margin: auto;
+
+}
+
+table {
+    text-align: center;
+    width: 650px;
+}
+h1{
+    text-align: center;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.page-footer {
+    display: flex;
+    align-items: baseline;
+}
+
+.page-footer p {
+    margin-right: 10px;
+}
+
+.author {
+    font-style: italic;
+    color: grey;
+}
+
+.raiting {
+    font-size: 20px;
+    color: gold;
+}
