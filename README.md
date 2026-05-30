@@ -1,17 +1,17 @@
-# Chef Personal Blog & Culinary Portal
+# Cranberry Oatmeal Cookies Recipe Page
 
-> **Note:** This project is designed as a desktop-only layout (`Desktop-only`) to practice and master structural semantic layouts, explicit float alignments with clearfixes, and dynamic CSS geometric patterns.
+> **Note:** This project is designed as a desktop-only layout (`Desktop-only`) to practice and master basic block centering, semantic table layouts, and modern alignment via CSS Flexbox modules.
 
-A semantic, responsive, and visually polished culinary landing page designed as a personal portfolio for a professional chef. Features structural categorization and independent grid-pattern layouts.
+A clean, semantic, and well-structured single-page web document showcasing a cooking recipe with an ingredients list and step-by-step preparation instructions.
 
 ## Technologies Used
-- **HTML5**: Structural semantic elements (`<header>`, `<main>`, `<article>`, `<section>`, `<aside>`), custom web-font bindings, unordered navigation lists, and absolute links.
-- **CSS3**: Explicit float alignments (`float: left`, `float: right`), clearfix implementations via pseudo-elements (`::after`), multi-directional gradient backdrops (`linear-gradient`), absolute positioning mechanics, shadow filtering (`box-shadow`), and dynamic asset transformations (`transform: rotate`).
+- **HTML5**: Semantic tags, structured documentation formatting, structured data tables (`<table>`, `<thead>`, `<tbody>`), unordered lists (`<ul>`) for ingredients, and ordered lists (`<ol>`) for instructions.
+- **CSS3**: Explicit block centring (`margin: auto`), typography alignment, list style resets, and modern layout alignment via CSS Flexbox modules (`display: flex`, `align-items`).
 
 ## Key Features
-- **Asymmetric Block Architecture**: Implements an interactive multi-column display splitting user profile structures and secondary recipe widgets using clear layout boundaries.
-- **Dynamic Geometric Patterns**: Background rendering via complex overlapping native CSS linear-gradients mimicking industrial grid textures.
-- **Clean Structure**: Rooted project configuration and strict component isolation following enterprise layout workflows.
+- **Data Tables**: Polished display of metadata including preparation time, servings count, and nutritional values.
+- **Flexbox Component Wrapper**: Fluid alignment linking recipe photography alongside structured lists.
+- **Clean Structure**: Follows industrial best practices regarding document formatting and file path declarations.
 
 ## Author
 - GitHub: @artyom2k7
