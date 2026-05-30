@@ -1,5 +1,7 @@
 # Cranberry Oatmeal Cookies Recipe Page
 
+> **Note:** This project is designed as a desktop-only layout (`Desktop-only`) to practice and master basic block centering, semantic table layouts, and modern alignment via CSS Flexbox modules.
+
 A clean, semantic, and well-structured single-page web document showcasing a cooking recipe with an ingredients list and step-by-step preparation instructions.
 
 ## Technologies Used
